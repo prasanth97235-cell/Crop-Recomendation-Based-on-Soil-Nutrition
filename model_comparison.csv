@@ -1,0 +1,5 @@
+Algorithm,Accuracy (%),Precision (%),Recall (%),F1 Score (%),Training Time (sec)
+Random Forest,99.09,99.13,99.09,99.08,9.44
+CatBoost,99.05,99.13,99.05,99.05,53.48
+XGBoost,98.93,98.96,98.93,98.92,28.18
+LightGBM,98.87,98.88,98.87,98.86,15.2
